@@ -1,0 +1,5 @@
+while true do
+    print ">"
+    input = gets.chomp
+    puts eval(input)
+end
